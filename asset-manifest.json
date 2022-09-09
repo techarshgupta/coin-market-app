@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coin-market-app/static/css/main.dd5bbe8c.css",
+    "main.js": "/coin-market-app/static/js/main.9b149357.js",
+    "static/media/klown.png": "/coin-market-app/static/media/klown.d35bb5a4449cbe8269a5.png",
+    "static/media/arnx.png": "/coin-market-app/static/media/arnx.d391a89ae65aea9dd386.png",
+    "index.html": "/coin-market-app/index.html",
+    "main.dd5bbe8c.css.map": "/coin-market-app/static/css/main.dd5bbe8c.css.map",
+    "main.9b149357.js.map": "/coin-market-app/static/js/main.9b149357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd5bbe8c.css",
+    "static/js/main.9b149357.js"
+  ]
+}
